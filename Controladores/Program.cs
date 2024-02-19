@@ -36,6 +36,7 @@ class Program
 
                 case 0:
                     fichero.WriteLine("Eligio la opcion de cerrar el menu principal");
+                    fichero.WriteLine("Se cerrara la aplicacion");
                     cerrarMenu =true;
                         break;
                 case 1:

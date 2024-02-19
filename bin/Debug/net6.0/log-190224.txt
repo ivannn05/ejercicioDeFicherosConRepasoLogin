@@ -1,0 +1,3 @@
+Se ha creado el fichero 
+Se mostrara el menu pricipal 
+Eligio la opcion de cerrar el menu principal
